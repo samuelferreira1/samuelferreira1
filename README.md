@@ -3,7 +3,7 @@
 
 ---
 
-## 🧙‍♂️ Status do Herói (Full Stack Journey)
+## 🛡️⚔️ Status do Herói (Full Stack Journey)
 <p align="center">
   <img src="https://img.shields.io/badge/Classe-Full%20Stack%20Dev-orange?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Level-35-blueviolet?style=for-the-badge&logo=python" />
