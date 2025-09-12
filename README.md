@@ -51,7 +51,7 @@
 
 ## ☀️ Praise The Sun
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1kFcfPc1plNXXxzEY8CFNkjNn5qIAuGQf" width="400"/>
+  <img src="praise-the-sun.png" width="400"/>
 </p>
 <p align="center"><i>"Então, o que você diz? Por que não nos ajudamos mutuamente nesta jornada solitária?</i></p>
 
@@ -60,4 +60,4 @@
 ## 🌎 Onde me encontrar
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samuel-ferreira-77b314271/)  
 - 🌐 [Portfólio](#)  
-- ✉️ Contato: **SEUEMAIL@EXEMPLO.COM**
+- ✉️ Contato: **contato.samuelpassos@outlook.com**
