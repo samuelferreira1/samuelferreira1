@@ -58,6 +58,6 @@
 ---
 
 ## 🌎 Onde me encontrar
-- 🔗 [LinkedIn](#)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/samuel-ferreira-77b314271/)  
 - 🌐 [Portfólio](#)  
 - ✉️ Contato: **SEUEMAIL@EXEMPLO.COM**
