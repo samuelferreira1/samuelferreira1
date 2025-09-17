@@ -6,7 +6,7 @@
 ## 🛡️⚔️ Status do Herói (Full Stack Journey)
 <p align="center">
   <img src="https://img.shields.io/badge/Classe-Back%20End%20Dev-orange?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Level-35-blueviolet?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Level-22-blueviolet?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/HP-100%2F100-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Stamina-∞-yellow?style=for-the-badge&logo=git" />
 </p>
