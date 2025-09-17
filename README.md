@@ -28,8 +28,11 @@
 
 ## 📊 Status do Repositório
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=samuelferreira1&show_icons=true&theme=tokyonight&hide_border=true&token=SEU_TOKEN_AQUI" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelferreira1&layout=compact&theme=tokyonight&hide_border=true&token=SEU_TOKEN_AQUI" height="150"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelferreira1&layout=compact&theme=tokyonight&hide_border=true&token=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" height="150"/>
+
 </p>
 
 ---
