@@ -28,7 +28,17 @@
 
 ## 📊 Status do Repositório
 <p align="center">
-  <img src="![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?samuelferreira=anuraghazra&show_icons=true&theme=radical)" alt="GitHub Streak" height="150" />
+  ![Versão](https://img.shields.io/github/v/release/samuelferreira1/SEU-REPOSITORIO?style=flat-square)
+  ![Licença](https://img.shields.io/github/license/samuelferreira1/SEU-REPOSITORIO?style=flat-square)
+  ![Estrelas](https://img.shields.io/github/stars/samuelferreira1/SEU-REPOSITORIO?style=social)
+  ![Forks](https://img.shields.io/github/forks/samuelferreira1/SEU-REPOSITORIO?style=social)
+  ### Minhas Estatísticas do GitHub
+
+![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuelferreira1&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+### Linguagens Mais Usadas
+
+![Top Linguagens](https://github-com-stats.vercel.app/api/top-langs/?username=samuelferreira1&theme=default&hide_border=true)
 </p>
 
 ---
