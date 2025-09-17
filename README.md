@@ -24,13 +24,6 @@
   <img src="https://tiendawordpress.com/wp-content/uploads/2024/07/47778274.png" width="50" height="50" />
 </p>
 
----
-
-
-### Linguagens Mais Usadas
-
-![Top Linguagens](https://github-com-stats.vercel.app/api/top-langs/?username=samuelferreira1&theme=default&hide_border=true)
-</p>
 
 ---
 
