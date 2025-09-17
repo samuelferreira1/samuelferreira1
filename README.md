@@ -1,5 +1,5 @@
 <h1 align="center">⚔️ Samuel Ferreira ⚔️</h1>
-<h3 align="center">"Full Stack Developer — You Died? Try Again."</h3>
+<h3 align="center">"Back End Developer — You Died? Try Again."</h3>
 
 ---
 
