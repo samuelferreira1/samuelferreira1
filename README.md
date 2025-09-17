@@ -28,7 +28,7 @@
 
 ## 📊 Status do Repositório
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelferreira1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?samuelferreira=anuraghazra&show_icons=true&theme=radical)" alt="GitHub Streak" height="150" />
 </p>
 
 ---
