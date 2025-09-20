@@ -53,4 +53,4 @@
 ## 🌎 Onde me encontrar
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samuel-ferreira-77b314271/)  
 - 🌐 [Portfólio](#)  
-- ✉️ Contato: **contato.samuelpassos@outlook.com**
+- ✉️ [Contato](mailto:contato.samuelpassos@outlook.com)
